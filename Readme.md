@@ -38,9 +38,7 @@
 
 <br /><br />
 
-- 📫 How to reach me: <a href="mailto:kalrasujal322@gmail.com">kalrasujal322@gmail.com</a>
-- 🌐 My Portfolio: [My Portfolio](https://sujalnextweb.vercel.app)
-- 📖 My GuestBook: [Guestbook](https://sujalkiguestbook.vercel.app/)
+- 📫 How to reach me: <a href="mailto:saikrishnaramu1610@gmail.com">saikrishnaramu1610@gmail.com</a>
 - ⚡ Fun fact: "Did you know that the entirety of the internet weighs about the same as a single grain of sand? According to physicist Russell Seitz, it's around 50 grams, roughly equivalent to a small paperclip."
 - ⚡ Fun fact: "In 1994, Peter Shor developed an algorithm showing how a quantum computer could factorize large numbers exponentially faster than classical algorithms, impacting cryptography."
 
@@ -124,6 +122,6 @@ SOCIAL MEDIA 🌐:
 - 👯 I’m looking to collaborate on Google
 - 🤔 I’m looking for help with Automation Projects
 - 💬 Ask me about Python, DSA, and Coffee ☕
-- 📫 How to reach me: kalrasujal322@gmail.com
+- 📫 How to reach me: saikrishnaramu1610@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a science geek 🔭 and a flautist 🎶 (I can play the flute 🪈)
