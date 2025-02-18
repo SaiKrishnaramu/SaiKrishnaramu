@@ -3,7 +3,7 @@
 <div align="center">
 </div>
 
-<h3 align="center">I am a Computer Science student ☕ and Software Engineer 🧑🏼‍💻.</h3>
+<h3 align="center">I am a Computer Science student  and Software Engineer 🧑🏼‍💻.</h3>
 
 <div align="center">
     <a href="#">
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <img src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" width="500" />
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="350 "width="500" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 <h2 align="center">Leetcode Info</h2>
 <p align="center">
-    <img src="https://leetcard.jacoblin.cool/Saikrishnaramu?theme=transparent&font=Nunito&ext=heatmap" width="500" />
+    <img src="https://leetcard.jacoblin.cool/Saikrishnaramu?theme=unicorn&font=Noto%20Sans%20JP&ext=heatmap" />
 </p>
 
 <br />
@@ -30,7 +30,7 @@
 <h2 align="center">⚡ Current Stats ⚡</h2>
 
 <div align="center">
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalra&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaramu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     
 </div>
 
@@ -118,10 +118,9 @@ SOCIAL MEDIA 🌐:
 <h3 align="center">About Me</h3>
 
 - 🔭 I’m currently a Student at VIT(AP)
-- 🌱 I’m currently learning Artificial Intelligence & Machine Learning
+- 🌱 I’m currently learning Cybersecurity and Natural Language Processing
 - 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with Automation Projects
+- 🤔 I’m looking for help with Cybersecurity Projects
 - 💬 Ask me about Python, DSA, and Coffee ☕
 - 📫 How to reach me: saikrishnaramu1610@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a science geek 🔭 and a flautist 🎶 (I can play the flute 🪈)
+
