@@ -69,7 +69,6 @@ DATABASE LANGUAGES 🌟:
     &nbsp; &nbsp;
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/redis.png" alt="redis" width="40" height="40" />
     &nbsp; &nbsp;
-    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/cassendra.png" alt="cassendra" width="40" height="40" />
 </p>
 
 LIBRARIES AND FRMs 🔱:
@@ -106,13 +105,7 @@ DEV TOOLS & CLOUD SERVICES 🚀:
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/raspberry.png" alt="raspberry" width="40" height="40" />
 </p>
 
-SOCIAL MEDIA 🌐:
-<br></br>
-<p align="left">
-    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/linkedin.png" alt="linkedin" width="40" height="40" />
-    &nbsp; &nbsp;
-    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/insta.png" alt="instagram" width="40" height="40" />
-</p>
+
 
 
 
